@@ -1,0 +1,10 @@
+scrapy
+pymongo
+minio
+python-dotenv
+beautifulsoup4
+lxml
+dagster
+dagster-webserver
+python-dateutil
+orjson
